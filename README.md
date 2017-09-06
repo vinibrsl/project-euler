@@ -1,2 +1,2 @@
 # project-euler
-Some of the Project Euler's problems awnsers.
+🐍 Project Euler solved in Python Edit
