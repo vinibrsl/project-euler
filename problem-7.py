@@ -16,7 +16,7 @@ n = 10001
 while p != n+1:
     if is_prime(i):
         primes.append(i)
-        p += 1        
+        p += 1
     i += 1
         
 print(primes[n])
