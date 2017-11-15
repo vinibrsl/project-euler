@@ -1,2 +1,4 @@
 # project-euler
-🐍 Project Euler solved in Python Edit
+🐍 Project Euler problems solved in Python.
+
+https://projecteuler.net/
